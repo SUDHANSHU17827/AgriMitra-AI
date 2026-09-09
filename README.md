@@ -1,6 +1,6 @@
-# माझे Kisan
+# AgriMitra AI
 
-माझे Kisan is a farmer-first crop decision and trading prototype. It helps a farmer manage crops from the field through harvest and storage, understand the current value of produce in plain language, compare selling choices, discover nearby buyer demand, and find relevant government schemes. It also includes an optional ML service for price intelligence.
+मAgriMitra AI is a farmer-first crop decision and trading prototype. It helps a farmer manage crops from the field through harvest and storage, understand the current value of produce in plain language, compare selling choices, discover nearby buyer demand, and find relevant government schemes. It also includes an optional ML service for price intelligence.
 
 ## What the prototype includes
 
@@ -118,7 +118,7 @@ These credentials and the included records are demonstration data only.
 ## Project structure
 
 ```text
-माझे Kisan/
+मAgriMitra AI
 ├── src/                 React interface and client services
 ├── server/              Express API, routes, and demo datastore
 ├── ml/                  Python service, datasets, and trained models
