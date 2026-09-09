@@ -1,6 +1,6 @@
-# माझे Kisan deployment guide
+# AgriMitra AI deployment guide
 
-माझे Kisan can be deployed from this project folder, but the full application is not suitable for static hosting alone. It has a React frontend, an Express API, a Python ML service, and mutable data.
+मAgriMitra AI can be deployed from this project folder, but the full application is not suitable for static hosting alone. It has a React frontend, an Express API, a Python ML service, and mutable data.
 
 ## Recommended production layout
 
