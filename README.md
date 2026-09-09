@@ -1,6 +1,6 @@
 # AgriMitra AI
 
-मAgriMitra AI is a farmer-first crop decision and trading prototype. It helps a farmer manage crops from the field through harvest and storage, understand the current value of produce in plain language, compare selling choices, discover nearby buyer demand, and find relevant government schemes. It also includes an optional ML service for price intelligence.
+AgriMitra AI is a farmer-first crop decision and trading prototype. It helps a farmer manage crops from the field through harvest and storage, understand the current value of produce in plain language, compare selling choices, discover nearby buyer demand, and find relevant government schemes. It also includes an optional ML service for price intelligence.
 
 ## What the prototype includes
 
