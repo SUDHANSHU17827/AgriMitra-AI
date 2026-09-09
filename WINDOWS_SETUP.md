@@ -1,6 +1,6 @@
 # AgriMitra AI Windows setup
 
-This guide runs माझे Kisan locally on Windows 10 or Windows 11. The clean project ZIP intentionally excludes installed dependencies so Windows can install the correct native versions.
+This guide runs AgriMitra AI locally on Windows 10 or Windows 11. The clean project ZIP intentionally excludes installed dependencies so Windows can install the correct native versions.
 
 ## 1. Install the required software
 
