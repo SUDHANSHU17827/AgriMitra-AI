@@ -1,4 +1,4 @@
-# माझे Kisan backend and ML status
+# AgriMitra AI backend and ML status
 
 This project now uses the existing Express API as the source of truth for application data.
 
