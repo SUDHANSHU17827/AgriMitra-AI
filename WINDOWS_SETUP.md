@@ -1,4 +1,4 @@
-# माझे Kisan Windows setup
+# AgriMitra AI Windows setup
 
 This guide runs माझे Kisan locally on Windows 10 or Windows 11. The clean project ZIP intentionally excludes installed dependencies so Windows can install the correct native versions.
 
@@ -24,7 +24,7 @@ py --version
 Extract the ZIP to a normal writable folder such as:
 
 ```text
-C:\Users\YourName\Documents\माझे Kisan
+C:\Users\YourName\Documents\AgriMitra AI
 ```
 
 Avoid running the project from inside the ZIP, OneDrive synchronization conflicts, or a protected system directory.
