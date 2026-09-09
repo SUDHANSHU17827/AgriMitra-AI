@@ -40,7 +40,7 @@ export default function App() {
     addToast(
       `Welcome, ${user.name}!`,
       user.role === 'farmer'
-        ? 'Redirected to your माझे Kisan Farmer Dashboard.'
+        ? 'Redirected to your AgriMitra AI Farmer Dashboard.'
         : `Redirected to ${user.companyName || 'Buyer'} Procurement Portal.`,
       'success'
     )
@@ -49,7 +49,7 @@ export default function App() {
   const handleLogout = () => {
     api.auth.logout()
     setCurrentUser(null)
-    addToast('Signed Out', 'You have been safely signed out of माझे Kisan.', 'info')
+    addToast('Signed Out', 'You have been safely signed out of मAgriMitra AI.', 'info')
   }
 
   if (!currentUser) {
