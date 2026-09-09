@@ -192,7 +192,7 @@ export function AuthPage({
             className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight"
             style={{ color: '#063B2A' }}
           >
-            माझे Kisan
+            AgriMitra AI
           </h1>
 
           <p className="text-base sm:text-lg text-gray-600 font-medium leading-relaxed">
@@ -216,7 +216,7 @@ export function AuthPage({
           </div>
         </div>
 
-        {/* What माझे Kisan Does - Key Value Pillars */}
+        {/* What AgriMitra AI Does - Key Value Pillars */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
           <div className="bg-white rounded-3xl p-6 border shadow-sm space-y-2.5 transition-all hover:shadow-md" style={{ borderColor: '#E2EBE5' }}>
             <div className="w-12 h-12 rounded-2xl bg-[#EAF5EE] text-2xl flex items-center justify-center text-[#063B2A]">
@@ -262,7 +262,7 @@ export function AuthPage({
                   For Indian Growers &amp; FPOs
                 </span>
                 <h3 className="font-extrabold text-xl text-[#063B2A]">
-                  How माझे Kisan Benefits Farmers
+                  How AgriMitra AI Benefits Farmers
                 </h3>
               </div>
             </div>
