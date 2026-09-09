@@ -5,8 +5,7 @@ type BrandLogoProps = {
 
 export function BrandLogo({ tone = 'color', className = '' }: BrandLogoProps) {
   return (
-    <span className={`majhe-kisan-logo majhe-kisan-logo--${tone} ${className}`} role="img" aria-label="माझे Kisan">
-      <span className="majhe-kisan-logo__marathi" aria-hidden="true">माझे</span>
+    <span className={`majhe-kisan-logo majhe-kisan-logo--${tone} ${className}`} role="img" aria-label="मAgriMitra AI">
       <span className="majhe-kisan-logo__english" aria-hidden="true">
         <svg className="majhe-kisan-logo__sprout" viewBox="0 0 48 42" aria-hidden="true">
           <path className="majhe-kisan-logo__stem" d="M24 41C24 30 24.5 20.5 26 10" />
