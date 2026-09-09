@@ -1,6 +1,6 @@
-# माझे Kisan development guide
+# AgriMitra AI development guide
 
-माझे Kisan is a React, Vite, Tailwind CSS, Express, and optional Python ML application.
+AgriMitra AI is a React, Vite, Tailwind CSS, Express, and optional Python ML application.
 
 ## Development Server
 
