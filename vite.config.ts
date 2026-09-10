@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import path from 'node:path'
 
-import siteConfiguration from './.figma/make/site.json'
-import { app as backendApp } from './server/app.ts'
+import siteConfiguration from './site.json'
+import { app as backendApp } from './index.ts'
 
 // Vite config — https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
