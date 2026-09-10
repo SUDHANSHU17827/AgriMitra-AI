@@ -36,7 +36,7 @@ Do not share or reuse `node_modules` or `ml/.venv` between macOS and Windows. Th
 
 ## Quick start on Windows
 
-Open PowerShell in the extracted `माझे Kisan` folder.
+Open PowerShell in the extracted `AgriMart AI` folder.
 
 1. Install the website dependencies:
 
@@ -118,7 +118,7 @@ These credentials and the included records are demonstration data only.
 ## Project structure
 
 ```text
-मAgriMitra AI
+AgriMitra AI
 ├── src/                 React interface and client services
 ├── server/              Express API, routes, and demo datastore
 ├── ml/                  Python service, datasets, and trained models
