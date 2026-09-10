@@ -1,4 +1,4 @@
-"""Train माझे Kisan's weather and festival-aware seven-day price model."""
+"""Train AgriMitra AI weather and festival-aware seven-day price model."""
 
 from __future__ import annotations
 
